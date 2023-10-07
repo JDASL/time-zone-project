@@ -1,0 +1,12 @@
+body {
+  background-color: black;
+}
+select {
+  border-radius: 8px;
+  border-color: white;
+  padding: 10px;
+  margin: 0 auto;
+  display: block;
+  margin-top: 30px;
+  font-size: 30px;
+}
